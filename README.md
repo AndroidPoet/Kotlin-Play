@@ -32,5 +32,4 @@
 	<img src="https://user-images.githubusercontent.com/13647384/167071795-0c3c16a5-9714-4c10-9534-48dd3e32a7cf.png"  width="70%"/>
 </p> 
 
-![carbon (6)](https://user-images.githubusercontent.com/13647384/167076573-8ffbab43-a119-4ebf-b501-115ba01cb55a.png)
 
