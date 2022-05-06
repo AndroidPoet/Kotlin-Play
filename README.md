@@ -15,6 +15,11 @@
 	<img src="https://user-images.githubusercontent.com/13647384/167076133-9cd2545f-224b-4da3-a6ca-e235bedbd45d.png"  width="70%"/>
 </p> 
 
+### Variables [Gist](https://gist.github.com/AndroidPoet/0182cab89a207b24947333e8a1d88e02)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/13647384/167076573-8ffbab43-a119-4ebf-b501-115ba01cb55a.png"  width="70%"/>
+</p> 
+
 
 ### Map vs Filter [Gist](https://gist.github.com/AndroidPoet/6ac499c1a8a58d1d09e8e62b91549d7a)
 <p align="center">
@@ -27,4 +32,5 @@
 	<img src="https://user-images.githubusercontent.com/13647384/167071795-0c3c16a5-9714-4c10-9534-48dd3e32a7cf.png"  width="70%"/>
 </p> 
 
+![carbon (6)](https://user-images.githubusercontent.com/13647384/167076573-8ffbab43-a119-4ebf-b501-115ba01cb55a.png)
 
